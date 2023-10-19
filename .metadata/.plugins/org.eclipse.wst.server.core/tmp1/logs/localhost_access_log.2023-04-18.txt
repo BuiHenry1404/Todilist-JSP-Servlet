@@ -1,0 +1,14 @@
+127.0.0.1 - - [18/Apr/2023:12:49:40 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:49:41 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/todo/todo-form.jsp HTTP/1.1" 200 2277
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:49:41 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:49:47 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/logout HTTP/1.1" 200 1714
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:49:52 +0700] "POST /todo-application-jsp-servlet-jdbc-mysql/login HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:04 +0700] "POST /todo-application-jsp-servlet-jdbc-mysql/login HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:07 +0700] "POST /todo-application-jsp-servlet-jdbc-mysql/login HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:10 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/register HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:10 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/register/register.jsp HTTP/1.1" 200 2241
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:18 +0700] "POST /todo-application-jsp-servlet-jdbc-mysql/register HTTP/1.1" 200 2270
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:20 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:20 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/login/login.jsp HTTP/1.1" 200 1714
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:25 +0700] "POST /todo-application-jsp-servlet-jdbc-mysql/login HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [18/Apr/2023:12:50:29 +0700] "POST /todo-application-jsp-servlet-jdbc-mysql/login HTTP/1.1" 200 1742

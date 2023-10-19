@@ -1,0 +1,6 @@
+127.0.0.1 - - [05/Apr/2023:00:23:04 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:00:23:15 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/todo/todo-form.jsp HTTP/1.1" 200 2277
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:00:23:16 +0700] "GET /favicon.ico HTTP/1.1" 404 684
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:00:23:17 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/logout HTTP/1.1" 200 1714
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:00:23:19 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Apr/2023:00:23:19 +0700] "GET /todo-application-jsp-servlet-jdbc-mysql/login/login.jsp HTTP/1.1" 200 1714
